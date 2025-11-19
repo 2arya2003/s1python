@@ -25,3 +25,5 @@ elif a1==a2:
 else:
     print("Area of rectangle 2 is higher")
 
+
+
