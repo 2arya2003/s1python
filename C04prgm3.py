@@ -26,3 +26,4 @@ class Python(Book):
         print(f"No of pages:{self.no__pages}")
 book1=Python("DC","Aadujeevitham","Basheer",540,250)
 book1.display()
+
